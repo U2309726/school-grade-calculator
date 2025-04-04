@@ -1,0 +1,65 @@
+{
+    "2121": {
+        "Student name": "John Ki",
+        "Student ID": "2121",
+        "Assignment 1": "10",
+        "Assignment 2": "10",
+        "Laboratories": "10",
+        "Mid semester test": "15",
+        "Final Exam": "45"
+    },
+    "S11045034": {
+        "Student name": "Harry sojour",
+        "Student ID": "S11045034",
+        "Assignment 1": "7",
+        "Assignment 2": "8",
+        "Laboratories": "5",
+        "Mid semester test": "16.5",
+        "Final Exam": "48.5"
+    },
+    "784512": {
+        "Student name": "Henry",
+        "Student ID": "784512",
+        "Assignment 1": "6.7",
+        "Assignment 2": "9.5",
+        "Laboratories": "5",
+        "Mid semester test": "15.6",
+        "Final Exam": "34.5"
+    },
+    "963852": {
+        "Student name": "Jenny",
+        "Student ID": "963852",
+        "Assignment 1": "3",
+        "Assignment 2": "8",
+        "Laboratories": "9",
+        "Mid semester test": "17",
+        "Final Exam": "43"
+    },
+    "u3209726": {
+        "Student name": "Willi",
+        "Student ID": "u3209726",
+        "Assignment 1": "5",
+        "Assignment 2": "8",
+        "Laboratories": "9",
+        "Mid semester test": "17",
+        "Final Exam": "32"
+    },
+    "U3209726": {
+        "Student name": "Gozzman simpson",
+        "Student ID": "U3209726",
+        "Assignment 1": "10",
+        "Assignment 2": "5.8",
+        "Laboratories": "8.7",
+        "Mid semester test": "17",
+        "Final Exam": "42"
+    },
+    "U11112222": {
+        "Student name": "Rose Mary",
+        "Student ID": "U11112222",
+        "Assignment 1": "7",
+        "Assignment 2": "6.5",
+        "Laboratories": "10",
+        "Mid semester test": "17.9",
+        "Final Exam": "43.5"
+    }
+}
